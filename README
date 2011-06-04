@@ -1,0 +1,3 @@
+Simple plugin that traps the TAB key and translate the result to whatever was specified in the tab option (default is 4 spaces).
+
+See http://j.mp/knBNLh for demo and documentation.
